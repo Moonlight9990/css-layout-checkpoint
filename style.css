@@ -343,6 +343,10 @@ option {
     padding-right: 150px;
 }
 
+.country div:hover{
+    box-shadow: #000 0 0px 8px 0px;
+}
+
 .section6 div {
     border-radius: 3%;
     margin: 0.44%;
